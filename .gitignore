@@ -90,3 +90,9 @@ ENV/
 
 # virtualenv
 flask
+
+# db
+*.db
+
+# tmp log directory
+tmp/
